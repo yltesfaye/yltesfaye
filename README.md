@@ -11,24 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years old Software Developer at Dakota State University.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
-
-</br>
-</br>
-</br>
-
 
 
 # Languages & Tools 👨‍💻 🛠:
@@ -96,8 +81,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/yltesfaye/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-yltesfaye-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
